@@ -140,6 +140,21 @@ i {
       background-color: blue;
      
   }
+  
+  .ferramenta {
+      
+      text-align: center;
+      margin: 0 auto;
+  }
+
+  .ferramenta img {
+      width: 10%;
+      display: inline-block;
+  }
+
+  .esquerdo {
+      font-family:Arial, Helvetica, sans-serif;
+  }
 
 
 

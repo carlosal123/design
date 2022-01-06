@@ -141,6 +141,100 @@ i {
      
   }
 
+  
+  .ferramenta {
+      
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 600px;
+}
+
+.ferramenta img {
+    width: 10%;
+    display: inline-block;
+}
+
+.esquerdo {
+    width: 250px;
+    margin-left: 43px;
+}
+
+.esquerdo h3 {
+    color: blue;
+}
+
+.website {
+   
+    margin-left: 818px;
+    width: 250px;
+    
+  
+}
+
+.game {
+    
+    width: 250px;
+    
+    margin-top: -176px;
+    margin-right: 0px;
+    margin-bottom: 170px;
+    margin-left: 1174px;
+   
+}
+
+.social {
+    margin-left: 818px;
+    width: 250px;
+    
+  
+}
+
+.social2 {
+    width: 250px;
+  
+    margin-top: -129px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 1185px;
+}
+
+.titulo {
+    margin-top: 600px;
+}
+
+.portifolio h3 {
+    text-align: center;
+    color: blue;
+}
+.portifolio h1 {
+    text-align: center;
+}
+
+.portifolio {
+    text-align: center;
+}
+
+.game1 {
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    text-align: center;
+}
+.game1 img {
+    width: 500px;
+    text-align: center;
+    
+
+}
+.game1 h2 {
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+
+
 
 
 
