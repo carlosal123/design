@@ -208,6 +208,7 @@ i {
 }
 .portifolio h1 {
     text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .portifolio {
@@ -230,6 +231,57 @@ i {
     font-size: 20px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+.midias h1 {
+    color: rgb(52, 52, 204);
+    font-size: 15px;
+    font-family: monospace;
+}
+.midias h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.midias {
+    margin-left: 88px;
+}
+
+.primeirocoment {
+    width: 500px;
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.primeirocoment h2 {
+    margin-top: 500px;
+}
+
+.primeirocoment img {
+    width: 81px;
+    height: 83px;
+    margin-top: 100px;
+    border-radius: 100px;
+}
+.primeirocoment p {
+    width: auto;
+}
+
+.global {
+    text-align: center;
+}
+.global h2 {
+    display: inline-block;
+    padding-top: 20px;
+    font-size: 1.5rem;
+    margin-top: 40px;
+}
+
+.global p {
+    font-size: 0.8rem;
+    margin-top: 50px;
+}
+
+
+
 
 
 
