@@ -286,6 +286,91 @@ i {
     margin-top: 70px;
 }
 
+.team {
+    margin-left: 240px;
+}
+.team h1 {
+    color: rgb(89, 89, 214);
+    font-size: 13px;
+}
+
+.team h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.samanta img {
+max-width: 400px;
+max-height: 50%;
+border-style: solid;
+border-radius: 25px;
+border-color: black;
+margin-left: 234px;
+}
+
+.samanta h2 {
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 384px;
+margin-top: 1px;
+
+}
+.samanta p {
+    margin-left: 377px;
+}
+
+.jon img{
+max-width: 400px;
+max-height: 50%;
+margin-top: -433px;
+margin-right: -7px;
+margin-left: 641px;
+border-style: solid;
+border-radius: 25px;
+border-color: black;
+}
+
+
+.jon h2 {
+    margin-top: -95px;
+    font-size: 20px;
+    margin-left: 820px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.jon p {
+    margin-left: 784px;
+}
+
+.sara img {
+ max-width: 400px;
+ max-height: 50%;
+ margin-top: -461px;
+ margin-left: 1047px;
+ border-style: solid;
+ border-radius: 25px;
+ border-color: black;
+}
+
+.sara h2 {
+    margin-top: -107px;
+    font-size: 20px;
+    margin-left: 1219px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.sara p {
+    margin-left: 1190px;
+}
+
+.see2 {
+    text-align: center;
+    color: rgb(106, 106, 224);
+    
+}
+
+.see2 h3 {
+    font-size: 17px;
+}
+
 
 
 
