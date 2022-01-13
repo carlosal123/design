@@ -10,8 +10,6 @@ body {
     background-color: #000;
     color: rgb(241, 241, 241);
     padding: 10px 30px;
-    background: url('https://i0.wp.com/gamehall.com.br/wp-content/uploads/2014/11/League-of-Legends-Wallpaper-Full-HD-1920x1080.jpg?ssl=1') no-repeat;
-    height: 100vh;
     background-position: center;
     font-family: Arial;
     background-color: black;
@@ -70,6 +68,9 @@ body {
     
     
 }
+.main h5, .main h3 {
+    color: rgb(255, 95, 47);
+}
 
 .menu li {
     list-style: none;
@@ -89,21 +90,20 @@ body {
 
 }
 .container {
-    height: 100px;
     text-align: left;
     justify-content: space-between;
     flex-direction: column;
-    height: 100vh;
     display: flex;
-    position: right;
+    position: absolute;
     text-align: right;
+    top: 350px;
     }
 
 
 
 .botao {
     margin-top: 100px;
-    background-color: rgb(18, 14, 212);
+    background-color: rgb(212, 14, 14);
     color: white;
     margin: 5px;
     padding: 15px 35px;
@@ -123,16 +123,9 @@ body {
 
 }
 .main {
-    margin-top: 400px;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-    position: left;
     
-}
-
-i {
-      float: right;
-      margin-left: 900px;
      
 
   }
@@ -140,6 +133,9 @@ i {
       background-color: blue;
      
   }
+
+ 
+
 
 
 
