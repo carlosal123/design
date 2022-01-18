@@ -10,7 +10,6 @@ body {
     background-color: #000;
     color: rgb(241, 241, 241);
     padding: 10px 30px;
-    background: url('https://s1.1zoom.me/b5050/65/328106-alexfas01_1920x1080.jpg') no-repeat;
     height: 100vh;
     background-position: center;
     font-family: Arial;
@@ -89,26 +88,22 @@ body {
 
 }
 .container {
-    height: 100px;
-    text-align: left;
-    justify-content: space-between;
-    flex-direction: column;
-    height: 100vh;
     display: flex;
-    position: right;
-    text-align: right;
+    text-align: left;
+    margin-top: 116px;
     }
 
 
 
 .botao {
-    margin-top: 100px;
-    background-color: rgb(41, 180, 104);
+    background-color: rgb(3, 3, 3);
     color: white;
     margin: 5px;
-    padding: 15px 35px;
-    border:none;
+    padding: 11px 35px;
+    border: none;
     font-size: 13px;
+    margin-left: 6px;
+  
 }
 .logo {
     width: auto;
@@ -123,12 +118,13 @@ body {
 
 }
 .main {
-    margin-top: 400px;
-    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-    position: left;
-    
+    background-color: #222;
+    padding: 20px;
+    border-radius: 20px 0px 0px 20px;
 }
+    
+
 
 i {
       float: right;
@@ -140,6 +136,50 @@ i {
       background-color: blue;
      
   }
+
+  .main h3 {
+      font-size: 15px;
+  }
+
+.branca {
+    width: 100%;
+    height: 600px;
+    padding: 30px;
+    border-radius: 0px 20px 20px 0px;
+    background-color: white;
+}
+   
+.branca h4 {
+    color: black;
+}
+
+.nome1 {
+    margin-top: 200px;
+}
+
+.globalcont {
+    text-align: center;
+    color: black;
+    display: flex;
+}
+
+
+.name22 {
+    margin-left: 0px;
+    display: flex;
+    
+}
+
+.emailtel {
+    color: black;
+    display: flex;
+}
+
+.mensagem {
+    color: black;
+    margin-top: 50px;
+}
+
 
 
 
